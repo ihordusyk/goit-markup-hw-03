@@ -19,3 +19,7 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.portfolio-item {
+  width: calc((100% - 48px) / 3);
+}
