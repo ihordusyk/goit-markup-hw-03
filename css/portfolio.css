@@ -1,3 +1,10 @@
+.portfolio-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  row-gap: 48px;
+}
+
 .portfolio-subtitle {
   font-weight: 500;
   font-size: 20px;
