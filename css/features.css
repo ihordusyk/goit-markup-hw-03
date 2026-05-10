@@ -3,6 +3,10 @@
   column-gap: 24px;
 }
 
+.features-item {
+  width: calc((100% - 72px) / 4);
+}
+
 .features-subtitle {
   font-weight: 500;
   font-size: 20px;
