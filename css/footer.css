@@ -10,6 +10,7 @@
 }
 
 .footer-logo {
+  display: inline-block;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -17,6 +18,7 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
+  margin-bottom: 16px;
 }
 
 .footer-logo .logo-accent {

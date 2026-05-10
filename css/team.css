@@ -13,6 +13,7 @@
 
 .team-item {
   background-color: #ffffff;
+  border-radius: 0 0 4px 4px;
 }
 
 .team-member {
@@ -31,4 +32,8 @@
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.team-img {
+  display: block;
 }

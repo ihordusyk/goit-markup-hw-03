@@ -4,12 +4,11 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
-  width: 1440px;
 }
 
-section {
-  padding-bottom: 120px;
+.section {
   padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .section-title {
